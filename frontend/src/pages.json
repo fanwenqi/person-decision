@@ -1,0 +1,19 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationBarTitleText": "个人决策议会",
+        "navigationBarBackgroundColor": "#0f1115",
+        "navigationBarTextStyle": "white",
+        "backgroundColor": "#0f1115"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "white",
+    "navigationBarTitleText": "个人决策议会",
+    "navigationBarBackgroundColor": "#0f1115",
+    "backgroundColor": "#0f1115"
+  }
+}
